@@ -11,9 +11,9 @@ function add(a, b) {
 }
 
 // TODO: Call both functions and store their results in variables
-const greetingMessage = greet("Alex");
+const greetingMessage = greet("Joel");
 const sumResult = add(5, 7);
 
 // TODO: Print the results to the console
-console.log(greetingMessage); // Output: Hello, Alex!
+console.log(greetingMessage); // Output: Hello, Joel!
 console.log(sumResult); // Output: 12
